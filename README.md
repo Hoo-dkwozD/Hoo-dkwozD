@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Hoo-dkwozD
 - 👀 I’m interested in Software Development and Data Science and Analytics
+- 💡 I'm trained in Python and PHP 
 - 🌱 I’m currently learning JS, Java and Swift
 - 💞️ I’m looking to collaborate on Data Science and Analytics Projects
 <!--- 📫 How to reach me: ---> 
